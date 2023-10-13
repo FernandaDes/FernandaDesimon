@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @FernandaDes
-- 👀 I’m interested in front-end development and UI Design
-- 🌱 I’m currently learning HTML5, JavaScript, Bootstrap and taking a fullstack bootcamp 
-- 💞️ I’m looking to collaborate on front end 
+- 👋 Hi, I’m @FernandaDesimon
+- 👀 I’m interested in full-stack development.
 - 📫 How to reach me engfernandadesimon@gmail.com
 
 <!---
